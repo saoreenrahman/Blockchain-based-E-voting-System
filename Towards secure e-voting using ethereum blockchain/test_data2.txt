@@ -1,0 +1,25 @@
+1. addCandidate:
+----------------
+"A"
+"B"
+"C"
+
+2. authorize voter
+--------------------
+0x3ade5a0a891e75beebac1d9227d86415dc106ec8
+0xe5213cf008fd48b190c49a62e360547f9b6ab54f 
+0x79c8eb6cb845e4c18d107daa71fcd508b6065bcf
+0x10161b9cc1454d949812f03a9e563e952fb62f9a
+0x8d8bd4308d8145af7c55aa0eff818e0c5d9415d0
+
+
+3. Vote:
+-------
+0
+1
+2
+0
+0
+
+
+4.  call get Result()
