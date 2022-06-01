@@ -1,4 +1,5 @@
-Implementation of P. McCorry et al. work "A Smart Contract For Boardroom Voting with Maximum Voter Privacy" extension.
+Implementation of P. McCorry et al. work "A Smart Contract For Boardroom Voting with Maximum Voter Privacy" extension. (link: https://www.researchgate.net/publication/322000346_A_Smart_Contract_for_Boardroom_Voting_with_Maximum_Voter_Privacy)
+
 - Files: Election.sol, CryptoLib.sol, test_data.txt
 
 Instructions:
